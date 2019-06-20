@@ -1,2 +1,2 @@
 # python-opps
-this is about python oops concept
+Basic concepts of python Object Oriented Programming.
